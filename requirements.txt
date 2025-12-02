@@ -6,3 +6,4 @@ scikit-learn
 tensorflow
 joblib
 seaborn
+gunicorn 
